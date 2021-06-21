@@ -1,4 +1,4 @@
-
+        // variaveis
         var linha = []
         var coluna = []
         
@@ -7,7 +7,7 @@
             for(c = 0; c <= 3; c++){
 
                 document.write(i,c)
-
+                        
             };
         
 
